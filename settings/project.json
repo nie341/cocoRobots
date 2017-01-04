@@ -1,0 +1,38 @@
+{
+  "collision-matrix": [
+    [
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      true,
+      true
+    ]
+  ],
+  "excluded-modules": [
+    "Mask",
+    "CCSpriteDistortion",
+    "LabelOutline",
+    "ParticleSystem",
+    "Spine Skeleton",
+    "ProgressBar",
+    "ScrollBar",
+    "ScrollView",
+    "EditorBox",
+    "VideoPlayer",
+    "MotionStreak"
+  ],
+  "group-list": [
+    "default",
+    "player",
+    "deadly"
+  ],
+  "start-scene": "current"
+}

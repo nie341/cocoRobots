@@ -1,0 +1,16 @@
+Robot art by blubdubblub
+From opengameart.org (http://opengameart.org/content/pseudo-a-25d-roguelike-robot-sprite-sheet)
+Copyright/Attribution Notice: 
+Free to use under the AGPLv3 (Affero GNU Public License v3) license (if you want to use it in your website, have the website's full source code available - the rest is pretty standard GPLv3).
+
+
+Character art by Curt - cjc83486
+From opengameart.org (http://opengameart.org/content/rpg-character)
+Attribution:
+Curt - cjc83486
+
+Boxy Bold Font
+
+Attribution Instructions: 
+Not required, but you may optionally give credit to Clint Bellanger by listing his name with the other attribution/credits list of your project. 
+Alternatively, you can link to this page or his home page: http://clintbellanger.net

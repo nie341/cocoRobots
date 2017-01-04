@@ -1,0 +1,13 @@
+{
+  "excludeScenes": [],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.Robots",
+  "startScene": "94ec954f-b50a-4ca2-ba81-838d28451b85",
+  "title": "Robots",
+  "webOrientation": "auto"
+}
